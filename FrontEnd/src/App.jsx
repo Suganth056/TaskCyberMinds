@@ -11,7 +11,7 @@ import { PiUserSound } from "react-icons/pi";
 import { LuLayers } from "react-icons/lu";
 import logo from './assets/images.jpg'
 
-
+ 
 function App() {
   
 
@@ -85,7 +85,7 @@ function App() {
           <div className='inner-box'>
             <img src={amazon} alt="" />
             <div className='timer'>24h ago</div>
-            <h4>Full Stack Developer</h4>
+            <p className='h4'>Full Stack Developer</p>
             <div className='container-exp'>
                 <div>
                   <FaUserPlus />
@@ -109,7 +109,7 @@ function App() {
           <div className='inner-box'>
             <img src={nodejs} alt="" />
             <div className='timer'>24h ago</div>
-            <h4>Full Stack Developer</h4>
+            <p className='h4'>Full Stack Developer</p>
             <div className='container-exp'>
                 <div>
                   <FaUserPlus />
@@ -133,7 +133,7 @@ function App() {
           <div className='inner-box'>
             <img src={swiggy} alt="" />
             <div className='timer'>24h ago</div>
-            <h4>Full Stack Developer</h4>
+            <p className='h4'>Full Stack Developer</p>
             <div className='container-exp'>
                 <div>
                   <FaUserPlus />
@@ -157,7 +157,7 @@ function App() {
           <div className='inner-box'>
             <img src={amazon} alt="" />
             <div className='timer'>24h ago</div>
-            <h4>Full Stack Developer</h4>
+            <p className='h4'>Full Stack Developer</p>
             <div className='container-exp'>
                 <div>
                   <FaUserPlus />
@@ -181,7 +181,7 @@ function App() {
           <div className='inner-box'>
             <img src={nodejs} alt="" />
             <div className='timer'>24h ago</div>
-            <h4>Full Stack Developer</h4>
+            <p className='h4'>Full Stack Developer</p>
             <div className='container-exp'>
                 <div>
                   <FaUserPlus />
@@ -205,7 +205,7 @@ function App() {
           <div className='inner-box'>
             <img src={swiggy} alt="" />
             <div className='timer'>24h ago</div>
-            <h4>Full Stack Developer</h4>
+            <p className='h4'>Full Stack Developer</p>
             <div className='container-exp'>
                 <div>
                   <FaUserPlus />
@@ -229,7 +229,7 @@ function App() {
           <div className='inner-box'>
             <img src={amazon} alt="" />
             <div className='timer'>24h ago</div>
-            <h4>Full Stack Developer</h4>
+            <p className='h4'>Full Stack Developer</p>
             <div className='container-exp'>
                 <div>
                   <FaUserPlus />
@@ -253,7 +253,7 @@ function App() {
           <div className='inner-box'>
             <img src={nodejs} alt="" />
             <div className='timer'>24h ago</div>
-            <h4>Full Stack Developer</h4>
+            <p className='h4'>Full Stack Developer</p>
             <div className='container-exp'>
                 <div>
                   <FaUserPlus />
