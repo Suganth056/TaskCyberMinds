@@ -96,9 +96,10 @@ aside{
 }
 
 .search-icon input{
-  padding: 5px;
+  padding: 8px;
   border: none;
   outline: none;
+  /* width: fit-content; */
 }
 
 
@@ -191,8 +192,8 @@ aside{
   /* border: 1px solid black; */
 }
 .inner-box img{
-  width: 65.8px;
-  height: 65.8px;
+  width: 50.8px;
+  height: 50.8px;
   border-radius: 13px;
 }
 .timer{
@@ -213,7 +214,7 @@ aside{
 .inner-box .h4{
   font-size: 20px;
   padding: 10px 0px;
-  font-weight: 600;
+  font-weight: 700;
 }
 
 .container-exp{
@@ -238,17 +239,19 @@ aside{
 }
 .list-items p{
   font-size: 14px;
-  
+  font-weight: 500;
 }
 
 .inner-box button{
   width: 100%;
-  padding:12px 10px;
+  padding:10px 12px;
   border: none;
   border-radius: 10px;
   background-color: #00AAFF;
   cursor: pointer;
   color: white;
+  font-size: 16px;
+  font-weight: 600;
 }
 
 .hidden-layer{
